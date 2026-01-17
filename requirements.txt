@@ -1,58 +1,21 @@
-# =========================
-# Core Python / Data
-# =========================
-numpy
-pandas
-matplotlib
-
-# =========================
-# LangChain Core
-# =========================
 langchain
-langchain-core
-langchain-community
+langchain-groq
 langchain-openai
-langchain-text-splitters
-
-# =========================
-# LangGraph (agent workflows)
-# =========================
-langgraph
-
-# =========================
-# Vector Databases
-# =========================
-chromadb
-
-# =========================
-# LLM / Tokenization
-# =========================
-openai
+faiss-cpu
 tiktoken
-
-# =========================
-# Document Loaders & Parsing
-# =========================
+langchain-community
+chromadb
+sentence-transformers
 pypdf
-unstructured
-beautifulsoup4
-lxml
-
-# =========================
-# Environment & Config
-# =========================
 python-dotenv
-pydantic
-pydantic-settings
-
-# =========================
-# Utilities
-# =========================
-requests
-tqdm
-rich
-
-# =========================
-# Optional (Local embeddings – may fail on Py 3.13)
-# =========================
-# sentence-transformers
+python-docx
+docx2txt
+pandas
+openpyxl
+unstructured
+msoffcrypto-tool
+jq
+numpy
+matplotlib
+langchain_huggingface
+scikit-learn
